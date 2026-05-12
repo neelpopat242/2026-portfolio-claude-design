@@ -13,6 +13,7 @@ const skillCategories = [
       { name: "FastAPI", level: 80 },
       { name: "JavaScript", level: 75 },
       { name: "C++", level: 70 },
+      { name: "Java", level: 60 },
     ],
   },
   {
@@ -33,6 +34,7 @@ const skillCategories = [
       { name: "Docker", level: 85 },
       { name: "Jenkins", level: 80 },
       { name: "CI/CD", level: 90 },
+      { name: "Kafka", level: 60 },
     ],
   },
   {

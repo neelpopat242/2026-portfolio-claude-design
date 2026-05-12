@@ -103,8 +103,8 @@ export default function Experience() {
             <div className="flex-1 h-[1px] bg-border ml-4" />
           </div>
 
-          {experiences.map((exp) => (
-            <div key={exp.company}>
+          {experiences.map((exp, expIdx) => (
+            <div key={exp.company} className={expIdx > 0 ? "mt-24" : ""}>
               {/* Company header */}
               <motion.div
                 className="mb-12"

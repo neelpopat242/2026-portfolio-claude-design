@@ -50,7 +50,7 @@ export default function Contact() {
         >
           {/* Section label */}
           <div className="flex items-center gap-4 mb-16">
-            <span className="font-mono text-accent text-sm">05</span>
+            <span className="font-mono text-accent text-sm">04</span>
             <h2 className="text-3xl md:text-4xl font-light">Contact</h2>
             <div className="flex-1 h-[1px] bg-border ml-4" />
           </div>

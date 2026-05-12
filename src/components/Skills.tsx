@@ -64,7 +64,7 @@ export default function Skills() {
         >
           {/* Section label */}
           <div className="flex items-center gap-4 mb-16">
-            <span className="font-mono text-accent text-sm">04</span>
+            <span className="font-mono text-accent text-sm">03</span>
             <h2 className="text-3xl md:text-4xl font-light">Skills</h2>
             <div className="flex-1 h-[1px] bg-border ml-4" />
           </div>

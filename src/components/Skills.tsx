@@ -36,13 +36,16 @@ const skillCategories = [
     ],
   },
   {
-    title: "Tools & Practices",
+    title: "Architecture & Practices",
     icon: "~/",
     skills: [
-      { name: "Git", level: 90 },
-      { name: "New Relic", level: 75 },
+      { name: "Microservices", level: 85 },
       { name: "System Design", level: 85 },
       { name: "API Design", level: 90 },
+      { name: "LLM / RAG", level: 75 },
+      { name: "Celery / Async Queues", level: 80 },
+      { name: "Git", level: 90 },
+      { name: "New Relic", level: 75 },
     ],
   },
 ];
